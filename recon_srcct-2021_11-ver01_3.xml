@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
-<gversions file="recon-2021_11-ver01_1.xml" date="2024-03-05">
-<description>Modified from 5.8.0 to get modern simulation.</description>
+<gversions file="recon-2021_11-ver01_3.xml" date="2024-06-03">
+<description>5.8.0 simulation update based on 5.16.0, but with ccdb 1.06.11</description>
 <package name="amptools" version="0.15.2"/>
-<package name="ccdb" version="1.06.09"/>
+<package name="ccdb" version="1.06.11"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
-<package name="diracxx" version="2.0.2"/>
+<package name="diracxx" version="2.1.2"/>
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
-<package name="gluex_MCwrapper" home="/work/halld2/home/boyu/src_builds/gluex_MCwrapper_srcct-v2.6.2"/>
-<package name="gluex_root_analysis" version="1.22.0"/>
-<package name="halld_recon" version="4.38.0"/>
-<package name="halld_sim" home="/work/halld2/home/boyu/src_builds/halld_sim_srcct-4.48.0^hdr438"/>
+<package name="gluex_MCwrapper" home="/work/halld2/home/boyu/src_builds/gluex_MCwrapper_srcct-v2.8.0"/>
+<package name="gluex_root_analysis" version="1.26.0" dirtag="hdr438_ccdb1611"/>
+<package name="halld_recon" version="4.38.0" dirtag="ccdb1611"/>
+<package name="halld_sim" home="/work/halld2/home/boyu/src_builds/halld_sim_srcct-4.49.0^hdr438_ccdb1611"/>
 <package name="hdds" version="4.15.0"/>
-<package name="hdgeant4" version="2.38.0" dirtag="hdr438"/>
-<package name="hd_utilities" version="1.43"/>
+<package name="hdgeant4" version="2.39.0" dirtag="ccdb1611"/>
+<package name="hd_utilities" version="1.47"/>
 <package name="hepmc" version="2.06.10"/>
-<package name="jana" version="0.8.2" dirtag="ccdb169"/>
+<package name="jana" version="0.8.2" dirtag="ccdb1611"/>
 <package name="lapack" version="3.9.0"/>
 <package name="photos" version="3.61"/>
 <package name="rcdb" version="0.07.01"/>

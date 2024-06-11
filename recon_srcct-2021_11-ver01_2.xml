@@ -9,10 +9,10 @@
 <package name="evio" version="4.4.6"/>
 <package name="evtgen" version="01.07.00"/>
 <package name="geant4" version="10.04.p02"/>
-<package name="gluex_MCwrapper" home="/work/halld2/home/boyu/src_analysis/sim/builds/gluex_MCwrapper_srcct/gluex_MCwrapper_srcct-v2.8.0"/>
+<package name="gluex_MCwrapper" home="/work/halld2/home/boyu/src_builds/gluex_MCwrapper_srcct-v2.8.0"/>
 <package name="gluex_root_analysis" version="1.26.0" dirtag="hdr438"/>
 <package name="halld_recon" version="4.38.0"/>
-<package name="halld_sim" home="/work/halld2/home/boyu/src_analysis/sim/builds/halld_sim_srcct/halld_sim_srcct-4.49.0^hdr438"/>
+<package name="halld_sim" home="/work/halld2/home/boyu/src_builds/halld_sim_srcct-4.49.0^hdr438"/>
 <package name="hdds" version="4.15.0"/>
 <package name="hdgeant4" version="2.39.0" dirtag="hdr438"/>
 <package name="hd_utilities" version="1.47"/>
