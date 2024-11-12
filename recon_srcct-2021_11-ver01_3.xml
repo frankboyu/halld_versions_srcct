@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://halldweb.jlab.org/halld_versions/version7.xsl"?>
 <gversions file="recon-2021_11-ver01_3.xml" date="2024-06-03">
-<description>5.8.0 simulation update based on 5.16.0, but with ccdb 1.06.11</description>
+<description>5.8.0 simulation update based on 5.16.0, but with ccdb 1.06.11. DO NOT USE DUE TO ISSUES WITH CCDB VERSION</description>
 <package name="amptools" version="0.15.2"/>
 <package name="ccdb" version="1.06.11"/>
 <package name="cernlib" version="2005" word_length="64-bit"/>
