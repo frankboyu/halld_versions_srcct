@@ -12,7 +12,7 @@
 <package name="gluex_MCwrapper" home="/work/halld2/home/boyu/src_software_builds/gluex_MCwrapper_srcct-v2.11.0"/>
 <package name="gluex_root_analysis" version="1.30.1" dirtag="j241"/>
 <package name="halld_recon" version="5.1.2" dirtag="j241"/>
-<package name="halld_sim" home="/work/halld2/home/boyu/src_software_builds/halld_sim_srcct"/>
+<package name="halld_sim" home="/work/halld2/home/boyu/src_software_builds/halld_sim_srcct-5.1.0.3^hdr512"/>
 <package name="hddm" version="5.0.0"/>
 <package name="hdds" version="4.17.0"/>
 <package name="hdgeant4" version="3.0.1" dirtag="j241"/>
